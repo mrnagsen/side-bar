@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+<title>h</title>
+</head>
+<body>
+  <div class=" menu ">
+    <div class="sidebar">
+      <h2> My Menu </h2>
+      <ul>
+        <li><a href="#"><i class="fa fa-table" aria-hidden="true"></i> DASHBOARD</a></li>
+        <li><a href="#">  <i class="fa fa-database" aria-hidden="true"></i>OVERVIEW</a></li>
+        <li><a href="#">  <i class="fa fa-calendar" aria-hidden="true"></i> EVENTS</a></li>
+        <li><a href="#"><i class="fa fa-link" aria-hidden="true"></i>SHORTCUTS</a></li>
+        <li><a href="#">  <i class="fa fa-server" aria-hidden="true"></i>  ABOUT US</a></li>
+        <li><a href="#ontact.html"> <i class="fa fa-phone-square" aria-hidden="true"></i> CONTACTS </a></li>
+        
+      </ul>
+      
+        
+      </div>
+    </div>
+  
+</body>
+</html>
