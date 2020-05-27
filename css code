@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding:0 ;
+  }
+body{  background: #f3f5f9 ;
+}
+.menu .sidebar{  
+position: fixed;
+  height:400px ;
+  width: 200px;
+  background-color:black;
+padding: 30px 0;
+}
+
+.menu .sidebar h2{ 
+text-align: center;
+  color: white;
+
+}
+
+.menu.sidear ul li{
+ 
+  border-bottom:1px solid rgba(0,0,0,0.05)
+    
+}
+.menu.sidear ul li a{ 
+  display:block;
+  color:#bdb8d7;
+
+}
+.menu.sidear ul li a .fas{ width: 25px;
+
+}
+.menu.sidear ul li :hover{ 
+background:#594f8d;
+}.menu.sidear ul li :hover a{ 
+color:#fff;
+}
